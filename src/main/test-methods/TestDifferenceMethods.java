@@ -11,9 +11,9 @@ public class TestDifferenceMethods {
 
         // TEST DIFFERENCE (DOUBLE)
 
-//        System.out.println(5.5 == AssessmentReview.difference(10, 4.5));
-//        System.out.println(100.0 != AssessmentReview.difference(150.0, 50.0));
-//        System.out.println(-2.0 != AssessmentReview.difference(5.5, 7.5));
+        System.out.println(5.5 == AssessmentReview.difference(10, 4.5));
+        System.out.println(100.0 != AssessmentReview.difference(150.0, 50.0));
+        System.out.println(-2.0 != AssessmentReview.difference(5.5, 7.5));
 
 
         // DONT UNCOMMENT THIS
